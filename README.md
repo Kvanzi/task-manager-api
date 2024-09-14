@@ -5,7 +5,7 @@
 [![Developed by kvanzi](https://img.shields.io/badge/Developed%20by-kvanzi-%236DB33F)](https://github.com/kvanzi)
 ![JDK](https://img.shields.io/badge/JDK-21.0.2-%23E76F00)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.3-%236DB33F)
-[![PostgreSQL](https://img.shields.io/badge/DBMS-PostgreSQL-%)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/DBMS-PostgreSQL-%236DB33F)](https://www.postgresql.org/)
 
 Task Manager API is a service for creating, updating, deleting, and reading notes from a database.
 
